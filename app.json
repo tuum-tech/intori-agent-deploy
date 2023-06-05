@@ -17,11 +17,11 @@
     },
     "API_KEY": {
       "description": "A secret key for verifying requests",
-      "generator": "m9YXUwYUahNT8VusBeGZzhBgTnPaTH1n"
+      "generator": "secret"
     },
     "SECRET_KEY": {
       "description": "Secret key for database encryption",
-      "generator": "fQtzYXzRoFAyqgLw6xSov3rp99Wdj3Rc"
+      "generator": "secret"
     },
     "AGENT_PATH": {
       "description": "The path where the agent will be served from",
