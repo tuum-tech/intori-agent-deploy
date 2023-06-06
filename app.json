@@ -13,7 +13,7 @@
   "env": {
     "BASE_URL": {
       "description": "The url for which your DID will be based on",
-      "value": "https://intori-agent-test.herokuapp.com"
+      "value": "https://intori-agent.herokuapp.com"
     },
     "API_KEY": {
       "description": "A secret key for verifying requests",
