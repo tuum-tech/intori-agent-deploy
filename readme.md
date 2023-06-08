@@ -1,10 +1,8 @@
-# Attention: This is a Template Repo
+# Intori Agent One Click Deploy
 
-Please fork this repository (or click the `Use this template` button) before attempting to use it to deploy Veramo. This will allow you to maintain your agent and update it to the latest version as you wish. 
+Please fork this repository (or click the `Use this template` button) before attempting to use it to deploy Intori Agent. This will allow you to maintain your agent and update it to the latest version as you wish. 
 
-# Veramo Agent Deploy
-
-**The official Veramo Docker agent is built from this this source.**
+# Intori Agent Deploy
 
 ## Environment variables
 
@@ -72,4 +70,4 @@ Coming soon
 
 ## Deploy to AWS
 
-Follow the instructions on our docs page: [Veramo.io Docs](https://veramo.io/docs/deployment_tutorials/deployment_aws)
+Coming soon
